@@ -35,6 +35,3 @@ print(urai('Purwadhika'))
 print(rajut('CCoCodCode'))
 print(rajut('PPyPytPythPythoPython'))
 print(rajut('PPuPurPurwPurwaPurwadPurwadhPurwadhiPurwadhikPurwadhika'))
-
-git remote add origin https://github.com/Wayne280/Ujian_UraiRajutKata.git
-git push -u origin master
